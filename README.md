@@ -24,13 +24,13 @@ git clone git@github.com:tastanlab/darkinon.git
 Now you have to create a conda environment to be able to run the code. Create the conda environment like this:
 
 ```
-conda create --name darkin python=3.11.3
+conda create --name darkinon python=3.11.3
 ```
 
 then activate this conda environment:
 
 ```
-conda activate darkin
+conda activate darkinon
 ```
 
 install pip if it is not installed:
