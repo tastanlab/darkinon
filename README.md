@@ -3,6 +3,8 @@ Hello! This is the official repository for our work DARKINON. Here, we aim to pr
 
 In our previous study DARKIN, we provided a benchmark dataset and an evaluation of protein language models(pLMs). In this study, by using the best performing pLM, task-aware protein embeddings and developing a transformer based prediction model, we aimed to improve prediction performance compared to DARKIN and DeepKinZero (proposed by our lab).
 
+![image info](model_arch.png)
+
 ### Dataset Format
 | SUB_ACC_ID | SUB_MOD_RSD | SITE_+/-7_AA | KINASE_ACC_IDS |
 |:---------|:---------|:---------|:---------|
